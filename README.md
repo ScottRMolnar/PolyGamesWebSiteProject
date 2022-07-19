@@ -1,1 +1,1 @@
-
+This project was a website we created in my Saskatchewan Polytechnic co-op/final sesmter. It will pull from a database filled with past/present/ and future students to display there game projects that we make in one of our classes. It will display these games for the future so students can go back and show off there game project for future employers or friends. This will also be a living project so it will keep growing as future students take up the mantle. I look forward to seeing how it grows and comparing it to this interation that we made. 
